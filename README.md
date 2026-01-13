@@ -12,7 +12,7 @@ Variational Disentanglement for Task-Agnostic Image Restoration
 
 # Test the model
 You can directly test the performance of the pre-trained model as follows:
-Modify the paths to dataset and pre-trained model. You need to modify the following path in the `test.py`
+Modify the paths to dataset and pre-trained model. You need to modify the following path in the `test.py` or run
 - python test.py --load [checkpont numbers, e.g 1160]
 # Train
 1. Download datasets and set the following structure
