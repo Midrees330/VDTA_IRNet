@@ -11,7 +11,11 @@ Variational Disentanglement for Task-Agnostic Image Restoration
 - BSD [link](https://drive.google.com/file/d/1BGwa1cdUordpbJpIjGT4uN_WZswesEDL/view?usp=drive_link)
 - rain100L [link](https://drive.google.com/file/d/1f-Se88bwPE0rHCEnBpDRnuggoNg3mB1S/view?usp=drive_link)
 # Pretrained models
-The corresponding pretrained models: 
+The corresponding pretrained models:
+- AISTD (ISTD+) [checkpoint](https://drive.google.com/file/d/1l6XOm-OvG8xIvgzjWP9gA5W5VOsesPA5/view?usp=drive_link)
+- SRD [checkpoint](https://drive.google.com/file/d/1d9IrVmqa2kBwosSo_sIo6UX3Ir86DKYM/view?usp=drive_link)
+- BSD [checkpoint](https://drive.google.com/file/d/1eOnGVhTjWVJ30M1T-beQIpiVBut71dyk/view?usp=drive_link)
+- rain100L [checkpoint](https://drive.google.com/file/d/1AHNyCgAwWlCIHZ4KxV8pzzaRVqhrj6yU/view?usp=drive_link)
 # Test the model
 You can directly test the performance of the pre-trained model as follows:
 Modify the paths to dataset and pre-trained model. You need to modify the following path in the `test.py` or run
