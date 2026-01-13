@@ -61,7 +61,7 @@ Modify the paths to dataset and pre-trained model. You need to modify the follow
            |
            |-- test_B  # rain-free GT
 # Evaluation
-The results reported in the paper are calculated by the `matlab` script used in [previouse method].(https://github.com/hhqweasd/G2R-ShadowNet/blob/main/evaluate.m)
+The results reported in the paper are calculated by the `matlab` script used in [previouse method](https://github.com/hhqweasd/G2R-ShadowNet/blob/main/evaluate.m)
 # Testing results
 The testing results on dataset  AISTD (ISTD+), SRD, BSD68, rain100L are:
 # Contact
