@@ -41,23 +41,22 @@ Modify the paths to dataset and pre-trained model. You need to modify the follow
            |-- test_C  # shadow-free GT
 
     -- BSD_Dataset
-       |-- train
-       |   |-- train_A  # shadow image
-       |   |
-       |   |-- train_C  # shadow-free GT
+       |-- BSDdataset
+       |   |-- train  # denoise image
        |
-       |-- test
-           |-- test_A  # shadow image
-           |
-           |-- test_C  # shadow-free GT
+       |-- test (BSD68)
+           |-- noisy15  # noisy image
+           |-- noisy25  # noisy image
+           |-- noisy50  # noisy image
+           |-- original  # clean image
 
     -- RAIN_Dataset
        |-- train
-       |   |-- train_A  # shadow image
+       |   |-- train_A  # rain image
        |   |
-       |   |-- train_C  # shadow-free GT
+       |   |-- train_B  # rain-free GT
        |
        |-- test
-           |-- test_A  # shadow image
+           |-- test_A  # rain image
            |
-           |-- test_C  # shadow-free GT
+           |-- test_B  # rain-free GT
