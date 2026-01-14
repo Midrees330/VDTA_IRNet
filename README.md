@@ -1,5 +1,7 @@
 # VDTA_IRNet
 Variational Disentanglement for Task-Agnostic Image Restoration
+This code is directly related to the manuscript submitted to The Visual Computer: `Variational Disentanglement for Task-Agnostic Image Restoration.' 
+If you use this code or models in your research, please cite the corresponding manuscript.
 # Requirement
 - Python 3.11
 - Pytorch 2.0
