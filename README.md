@@ -70,5 +70,10 @@ Modify the paths to dataset and pre-trained model. You need to modify the follow
 The results reported in the paper are calculated by the `matlab` script used in [previouse method](https://github.com/hhqweasd/G2R-ShadowNet/blob/main/evaluate.m)
 # Testing results
 The testing results on dataset  AISTD (ISTD+), SRD, BSD68, rain100L are:
+- AISTD (ISTD+) [Results](https://drive.google.com/file/d/1QJv9dTFQNRfvD-N-BtnJAKiPGRFFfbEY/view?usp=drive_link)
+- SRD [Results](https://drive.google.com/file/d/1xfrQ6AuWWtDfamltjpyM4gF5ioMr-yEo/view?usp=drive_link)
+- BSD [Results](https://drive.google.com/file/d/1FMZ_sigmQBn3GMISBJmFp_1ngKfY0HLD/view?usp=drive_link)
+- rain100L [Results](https://drive.google.com/file/d/1OoWavTXghJD6cfTPdtI3cJ2bCyDO_AC7/view?usp=drive_link)
+
 # Contact
 If you have any questions, please contact idreeskhan045@gmail.com/ huangying@cqupt.edu.cn
